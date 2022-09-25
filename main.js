@@ -1,8 +1,4 @@
-if (hour < 18) {
-    greeting = "Good day";
-  } 
-
-  function myFunction(p1, p2) {
+function myFunction(p1, p2) {
   return p1 * p2;
 }
 document.getElementById("demo").innerHTML = myFunction(4, 3);
