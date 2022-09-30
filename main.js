@@ -1,3 +1,3 @@
-if (hour < 18) {
+if (hour < 12) {
     greeting = "Good day";
   } 
