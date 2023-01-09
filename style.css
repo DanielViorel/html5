@@ -16,14 +16,14 @@
     padding-top: 25px;
 }
 
-.cap {
+.header {
     width: 100%;
     height: 90px;
     background-color: orangered;
     border-radius: 20px;
 }
 
-.cap h1 {
+.header h1 {
     text-align: center;
     padding-top: 25px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
