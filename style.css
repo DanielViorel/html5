@@ -11,13 +11,22 @@
 .hero figcaption {
     color: orangered;
     font-weight: 900;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 25px;
 }
 
 .cap {
     width: 100%;
-    height: 77px;
+    height: 90px;
     background-color: orangered;
     border-radius: 20px;
+}
+
+.cap h1 {
+    text-align: center;
+    padding-top: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .pie {
